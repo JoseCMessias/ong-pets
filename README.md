@@ -83,7 +83,7 @@ Os arquivos otimizados prontos para publicação serão gerados na pasta `dist/`
 ```bash
 npm run preview
 ```
-
+### Ou usar o executável do vercel: [Clique aqui](https://ong-pets-tan.vercel.app/)
 ---
 
 ## 🛠️ Tecnologias Utilizadas
